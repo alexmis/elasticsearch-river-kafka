@@ -1,0 +1,8 @@
+testCluster
+analytic-elasticsearch/data
+
+.idea
+.setting
+target
+*.iml
+*log
